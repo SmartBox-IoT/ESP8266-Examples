@@ -1,2 +1,12 @@
-# ESP8266-Examples
-Source examples for ESP8266 wifi chip
+# ESP8266 Examples
+
+## Crypto
+
+### MD5-Firmware
+
+Calculate MD5 hash of firmware including bootloader.
+
+	Smartbox IOT - ESP8266 Examples - MD5 Firmware
+	SketchSize : 230880
+	SketchMD5  : 99954457b7c337cbad308ca0b211fada
+	SketchCalc : 102 ms
