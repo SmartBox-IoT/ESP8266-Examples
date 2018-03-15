@@ -20,7 +20,7 @@ void setup()
   yield();
 
   // calculate MD5 hash
-  Serial.println("Smartbox IOT - ESP8266 Examples - MD5 Firmware");
+  Serial.println("Smartbox IoT - ESP8266 Examples - MD5 Firmware");
   uint32_t nBeg = millis();
   String sMD5 = ESP.getSketchMD5();
   uint32_t nEnd = millis();  
